@@ -415,6 +415,24 @@
       }
     }
   },
+  "scooter": {
+    "name": "Scooter",
+    "nameKey": "scooter",
+    "owner": "BIKE",
+    "zIndex": 16,
+    "defaultWidth": 3,
+    "variants": [
+      ""
+    ],
+    "details": {
+      "": {
+        "graphics": {
+          "center": "people--people-25",
+          "repeat": "ground--asphalt"
+        }
+      }
+    }
+  },
   "bike-lane": {
     "name": "Bike lane",
     "nameKey": "bike-lane",
